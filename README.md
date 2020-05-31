@@ -20,3 +20,5 @@ mailboxes:
 ## Running
 
 `unsubmail [-c /path/to/alt/config] [-C nn]`
+
+If you use `-C nn`, then only at most the latest `nn` messages will be processed.
